@@ -12,3 +12,5 @@ oder Github Flavoured Markdown.
 Mein Charakter sagt:
 >Ich liebe Kekse.
 >Gebt mir Kekse.
+
+<img src="./myimage.jpg"/>
