@@ -3,3 +3,8 @@ Das ist die Beschreibung des Charakters.
 Es sollen etwa 30 - 50 Wörter werden.
 Hierfür soll Klartext geschrieben werden, also ohne besondere Formatierungen
 oder Github Flavoured Markdown.
+
+## Das ist ein H2 SubHeader
+* Liebt Schokokekse
+* Liebt Kokoskekse
+* Liebt Marmeladenbrot
