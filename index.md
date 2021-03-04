@@ -8,3 +8,7 @@ oder Github Flavoured Markdown.
 * Liebt Schokokekse
 * Liebt Kokoskekse
 * Liebt Marmeladenbrot
+
+Mein Charakter sagt:
+>Ich liebe Kekse.
+>Gebt mir Kekse.
